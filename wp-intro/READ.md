@@ -1,0 +1,1 @@
+cmd to install webpack packages: npm i -D webpack webpack-cli webpack-dev-server

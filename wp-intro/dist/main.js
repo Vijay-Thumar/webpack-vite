@@ -1,0 +1,2 @@
+"use strict";var __webpack_exports__={};const info="Inner text from info.js";function createElem(e,n){let o=document.createElement(e);o.innerText=n,document.body.append(o)}const apple="msg from apple amigo";createElem("h1",info),console.log(apple);
+//# sourceMappingURL=main.js.map
